@@ -78,7 +78,7 @@ The project follows a structured data science pipeline:
 
 
 
-2\. Text Preprocessing:
+2. Text Preprocessing:
 
 &nbsp;
 
@@ -102,11 +102,11 @@ The project follows a structured data science pipeline:
 
 
 
-3\.  Feature Extraction: Converting text data into numerical vectors using TF-IDF (Term           Frequency-Inverse Document Frequency).
+3.  Feature Extraction: Converting text data into numerical vectors using TF-IDF (Term           Frequency-Inverse Document Frequency).
 
 
 
-4\.   Model Training: Training a Logistic Regression classifier on the processed data.
+4.   Model Training: Training a Logistic Regression classifier on the processed data.
 
 
 
@@ -165,6 +165,7 @@ AI\_Powered\_Emotion\_Detection\_from\_Text.ipynb in Jupyter Notebook or Google 
 
 
 4\.  Run the cells: Execute the cells sequentially to preprocess data, train the model, and see results.
+
 
 
 
